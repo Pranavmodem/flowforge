@@ -1,0 +1,8 @@
+{
+  "tasks": [
+    {"name": "fetch"},
+    {"name": "transform", "needs": ["fetch"]},
+    {"name": "report", "needs": ["transform"]},
+    {"name": "independent"}
+  ]
+}
