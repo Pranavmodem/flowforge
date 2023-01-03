@@ -1,0 +1,6 @@
+{
+  "runs": 30, "scan_tib": 2, "sql_per_tib": 6,
+  "cluster_hours": 0.5, "cluster_per_hour": 18,
+  "retry_fraction": 0.2, "retry_scan_fraction": 0.25, "retry_time_fraction": 1,
+  "cadence_minutes": 10, "processing_minutes": 3, "freshness_budget_minutes": 15
+}
