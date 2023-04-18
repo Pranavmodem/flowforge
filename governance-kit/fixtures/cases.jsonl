@@ -1,0 +1,1 @@
+{"expected": {"actions": [], "complete": false, "missing_locations": ["reports-000"]}, "id": "governance-kit-0001", "input": {"discovered": ["events-000"], "expected": ["events-000", "reports-000"], "ledger": {"events-000": "verified"}}, "mode": "deletion"}
